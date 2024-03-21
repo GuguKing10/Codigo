@@ -170,6 +170,7 @@ h1,h2,h3,h4,h5,h6 {
 .product img{
     height: 35rem;
     max-width: auto;
+    position: relative;
 }
 .product-details-img{
     max-width: 100%;
